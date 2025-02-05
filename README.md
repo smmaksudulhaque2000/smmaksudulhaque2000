@@ -82,11 +82,16 @@ I'm Maksudul Haque, a <strong>Full Stack Web Developer</strong> passionate about
 
 <h1 align="center">📊 GitHub Statistics</h1>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smmaksudulhaque2000&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smmaksudulhaque2000&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smmaksudulhaque2000&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smmaksudulhaque2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smmaksudulhaque2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=smmaksudulhaque2000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smmaksudulhaque2000&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
 
 ---
 
