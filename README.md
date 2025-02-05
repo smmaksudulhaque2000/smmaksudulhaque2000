@@ -2,7 +2,6 @@
   <img src="https://i.ibb.co/q3NHPMxG/Add-a-subheading.jpg" height="400" alt="Header Image"/>
 </div>
 
----
 
 <h2 align="center">🌟 Hi, I'm Maksudul Haque!</h2>
 
@@ -12,7 +11,6 @@
   📫 Contact: <a href="mailto:smmaksudulhaque2000@gmail.com">smmaksudulhaque2000@gmail.com</a> | +8801631375180
 </p>
 
----
 
 <h1 align="center">👋 About Me</h1>
 
@@ -20,17 +18,21 @@
 I'm Maksudul Haque, a <strong>Full Stack Web Developer</strong> passionate about building innovative and scalable web applications. I specialize in the <strong>MERN Stack (MongoDB, Express.js, React, Node.js)</strong> and enjoy working on both front-end and back-end to deliver seamless user experiences.
 </p>
 
-### 🔍 What I Do  
+🔍 What I Do  
 - 🚀 Build responsive, user-friendly web applications  
 - ⚡ Develop scalable and efficient backend systems  
-- 📈 Continuously learn and explore new technologies  
+- 📈 Continuously learn and explore new technologies
 
-### 💡 Fun Facts  
+🌟 Current Activities  
+- 🚀 Exploring **Next.js** for server-side rendering.  
+- 🌍 Working on an educational platform called **EduManage** using the MERN stack.  
+- 🎯 Learning advanced backend architecture and deployment strategies.  
+
+💡 Fun Facts  
 - 🎨 I love working on creative UI/UX designs  
 - 🌱 Currently learning advanced backend architecture  
 - 🌍 I enjoy contributing to open-source projects and collaborating with other developers  
 
----
 
 <h1 align="center">🔧 Tech Stack & Tools</h1>
 
